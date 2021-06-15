@@ -1,6 +1,6 @@
 {
 	"name": "@underlay/namespaces",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"type": "module",
 	"description": "",
 	"main": "lib/index.js",
@@ -9,7 +9,8 @@
 		"lib"
 	],
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"build": "tsc"
 	},
 	"repository": {
 		"type": "git",
@@ -20,5 +21,8 @@
 	"bugs": {
 		"url": "https://github.com/underlay/namespaces/issues"
 	},
-	"homepage": "https://github.com/underlay/namespaces#readme"
+	"homepage": "https://github.com/underlay/namespaces#readme",
+	"devDependencies": {
+		"typescript": "^4.3.2"
+	}
 }
