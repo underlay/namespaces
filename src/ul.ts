@@ -9,6 +9,7 @@ export default {
 	component: "http://underlay.org/ns/component",
 	coproduct: "http://underlay.org/ns/coproduct",
 	option: "http://underlay.org/ns/option",
+	reference: "http://underlay.org/ns/reference",
 	some: "http://underlay.org/ns/some",
 	none: "http://underlay.org/ns/none",
 	source: "http://underlay.org/ns/source",
