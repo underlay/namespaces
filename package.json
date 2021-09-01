@@ -2,7 +2,7 @@
 	"name": "@underlay/namespaces",
 	"version": "0.1.2",
 	"type": "module",
-	"description": "",
+	"description": "URI constants for commonly used Underlay namespaces",
 	"main": "lib/index.js",
 	"types": "lib/index.d.ts",
 	"files": [
