@@ -1,4 +1,4 @@
-export default {
+const ul = {
 	class: "http://underlay.org/ns/class",
 	key: "http://underlay.org/ns/key",
 	value: "http://underlay.org/ns/value",
@@ -15,3 +15,5 @@ export default {
 	source: "http://underlay.org/ns/source",
 	target: "http://underlay.org/ns/target",
 } as const
+
+export default Object.freeze(ul)

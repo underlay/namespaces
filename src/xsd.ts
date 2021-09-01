@@ -1,4 +1,4 @@
-export default {
+const xsd = {
 	string: "http://www.w3.org/2001/XMLSchema#string",
 	boolean: "http://www.w3.org/2001/XMLSchema#boolean",
 	Decimal: "http://www.w3.org/2001/XMLSchema#decimal",
@@ -38,3 +38,5 @@ export default {
 	Name: "http://www.w3.org/2001/XMLSchema#Name",
 	NCNames: "http://www.w3.org/2001/XMLSchema#NCNames",
 } as const
+
+export default Object.freeze(xsd)
