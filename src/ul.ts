@@ -14,6 +14,14 @@ const ul = {
 	none: "http://underlay.org/ns/none",
 	source: "http://underlay.org/ns/source",
 	target: "http://underlay.org/ns/target",
+	map: "http://underlay.org/ns/map",
+	projection: "http://underlay.org/ns/projection",
+	dereference: "http://underlay.org/ns/dereference",
+	match: "http://underlay.org/ns/match",
+	case: "http://underlay.org/ns/case",
+	construction: "http://underlay.org/ns/construction",
+	slot: "http://underlay.org/ns/slot",
+	injection: "http://underlay.org/ns/injection",
 } as const
 
 export default Object.freeze(ul)

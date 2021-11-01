@@ -7,7 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-- Added API section to README
+## [0.2.0] - 2021-11-01
+
+### Added
+
+- Mapping terms
+- API section to README
 
 ## [0.1.3] - 2021-09-01
 
@@ -27,6 +32,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - All exported namespaces are now read-only using `Object.freeze`
 
-[unreleased]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.1.3...HEAD
-[0.1.3]: https://github.com/olivierlacan/keep-a-changelog/releases/tag/v0.1.3
-[0.1.2]: https://github.com/olivierlacan/keep-a-changelog/releases/tag/v0.1.2
+[unreleased]: https://github.com/underlay/namespaces/compare/v0.2.0...HEAD
+[0.1.3]: https://github.com/underlay/namespaces/releases/tag/v0.2.0
+[0.1.3]: https://github.com/underlay/namespaces/releases/tag/v0.1.3
+[0.1.2]: https://github.com/underlay/namespaces/releases/tag/v0.1.2
