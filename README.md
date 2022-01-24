@@ -115,6 +115,11 @@ const ul: {
 	readonly none: "http://underlay.org/ns/none"
 	readonly source: "http://underlay.org/ns/source"
 	readonly target: "http://underlay.org/ns/target"
+	readonly map: "http://underlay.org/ns/map"
+	readonly projection: "http://underlay.org/ns/projection"
+	readonly dereference: "http://underlay.org/ns/dereference"
+	readonly match: "http://underlay.org/ns/match"
+	readonly case: "http://underlay.org/ns/case"
 }
 ```
 
