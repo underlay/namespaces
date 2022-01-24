@@ -1,6 +1,6 @@
 {
 	"name": "@underlay/namespaces",
-	"version": "0.2.0",
+	"version": "0.3.0",
 	"type": "module",
 	"description": "URI constants for commonly used Underlay namespaces",
 	"main": "lib/index.js",
